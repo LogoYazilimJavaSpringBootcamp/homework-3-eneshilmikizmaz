@@ -11,3 +11,5 @@ CRUD işlemleri yapan endpointleri yazın. (50 Puan)
 • CustomerServisi için gerekli tüm endpoint’leri yazın. (10 Puan)
 
 • Aktif ve pasif müşterileri listeleyen endpoint için gerekli kodu yazın. (10 Puan)
+
+• **Cevaplar ANSWERS.md dosyasının içindedir.**

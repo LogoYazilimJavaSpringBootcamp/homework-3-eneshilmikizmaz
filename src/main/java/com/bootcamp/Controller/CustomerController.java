@@ -36,7 +36,7 @@ public class CustomerController {
     public String deleteCustomer(@PathVariable int id){
         return  customerService.deleteCustomer(id);
     }
-
+    //Aktif Pasif Müşterileri listeler.
     @GetMapping("/{isActive}")
     public List<Customer> getCustomerByStatus(@PathVariable Boolean status){
         return customerService.findByStatus(status);
